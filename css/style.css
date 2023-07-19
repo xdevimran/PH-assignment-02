@@ -20,7 +20,7 @@ ul li {
 }
 
 .container {
-  max-width: 140rem;
+  max-width: 120rem;
   margin: 0 auto;
 }
 
@@ -305,8 +305,8 @@ nav {
   gap: 5rem;
 }
 .small-img {
-  width: 25rem;
-  margin: -15rem 0 0rem -15rem;
+  width: 15rem;
+  margin: -10rem 0 0rem -5rem;
 }
 .play-instant-img {
   width: 70%;
@@ -445,12 +445,14 @@ footer {
   }
   .nav-links {
     flex-direction: column;
+    margin-top: 5rem;
+    gap: 4rem;
   }
   /* hero section  */
   .hero-content {
     flex-direction: column-reverse;
     background: none;
-    padding: 2.5rem ;
+    padding: 2.5rem;
   }
   /* gamer section  */
   .gamer-content {
