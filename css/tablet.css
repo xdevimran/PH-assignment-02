@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1200px) {
+  nav {
+    padding: 0rem 5rem;
+  }
+  .hero-content {
+    padding: 5rem 10rem;
+    gap: 5rem;
+  }
+  .gamer-section {
+    padding: 5rem 10rem;
+    gap: 5rem;
+  }
+  .online-game-boxes {
+    padding: 0rem 4rem;
+  }
+  .play-instant-content {
+    padding: 3rem 5rem;
+  }
+}

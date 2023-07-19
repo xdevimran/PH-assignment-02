@@ -1,0 +1,72 @@
+@media only screen and (max-width: 600px) {
+  nav {
+    background: none;
+    box-shadow: none;
+  }
+  .navigation-content {
+    flex-direction: column;
+  }
+  .nav-links {
+    flex-direction: column;
+    margin-top: 5rem;
+    gap: 4rem;
+  }
+  /* hero section  */
+  .hero-content {
+    flex-direction: column-reverse;
+    background: none;
+    padding: 2.5rem;
+  }
+  /* gamer section  */
+  .gamer-section{
+    padding: 0rem !important;
+  }
+ 
+  .gamer-content {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .gamer-title,
+  .gamer-details {
+    text-align: center;
+  }
+  .gamer-text {
+    width: 100%;
+    text-align: center;
+    padding: 2rem;
+  }
+  /* game box  */
+  .online-game-boxes {
+    flex-direction: column;
+  }
+  .box {
+    width: auto;
+    height: auto;
+  }
+  /* play-instant-content */
+  .play-instant-content {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+  }
+  .play-instant-text {
+    padding: 3rem;
+  }
+  .play-instant-text h1 {
+    text-align: center;
+  }
+  .small-img {
+    width: 12rem;
+    margin: -8rem 0 0rem -5rem;
+  }
+  /* footer  */
+  .footer-navigation ul,
+  .footer-social-icons ul,
+  .footer-privacy-nav ul {
+    flex-wrap: wrap;
+    padding: 0rem 2rem;
+  }
+}
