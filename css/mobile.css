@@ -17,6 +17,10 @@
     background: none;
     padding: 2.5rem;
   }
+  .hero-text{
+    margin: 1.5rem 0rem;
+    padding: 5rem;
+  }
   /* gamer section  */
   .gamer-section{
     padding: 0rem !important;
