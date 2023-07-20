@@ -43,11 +43,11 @@
   }
   /* game box  */
   .online-game-boxes {
-    flex-direction: column;
+    /* flex-direction: column; */
   }
   .box {
-    width: auto;
-    height: auto;
+    /* width: auto;
+    height: auto; */
   }
   /* play-instant-content */
   .play-instant-content {
